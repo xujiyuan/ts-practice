@@ -6,6 +6,9 @@ A place with where we share knowledge, practice and grow together
 
 In this practice, you need to write code and test to make sure the functions are working as expected in the app.service.ts file under src/service
 
+A good reading before getting started
+https://modernweb.com/fun-with-javascript-native-array-functions/
+
 ## GOAL
 
 100% test pass, 100% test coverage, TDD
