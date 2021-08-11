@@ -29,7 +29,7 @@ Run test to verify things work
 $ npm run test
 ```
 
-Alternatively, my preference, every save will automatically trigger test run with this command
+Alternatively, this command below will automatically trigger test on save
 
 ```bash
 $ npm run test:watch
